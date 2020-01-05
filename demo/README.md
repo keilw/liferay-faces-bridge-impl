@@ -1,6 +1,6 @@
 # Building the Liferay Faces Bridge Demos From Source
 
-The Liferay Faces Bridge demos can be built seperately from the bridge. The demos can also be built for different versions of Liferay or Pluto.
+The Liferay Faces Bridge demos can be built separately from the bridge. The demos can also be built for different versions of Liferay or Pluto.
 
 To build a Liferay Faces Bridge demo from source:
 
@@ -20,9 +20,9 @@ Once you have built the demo, the `target` folder will contain a war that you ca
 
 Alternatively, you can build all the demos at once:
 
-1. Navigate to the `demos` directory:
+1. Navigate to the `demo` directory:
 
-		cd liferay-faces-bridge-impl/demos/
+		cd liferay-faces-bridge-impl/demo/
 
 2. Build the demos for Liferay:*
 
